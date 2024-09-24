@@ -1,2 +1,4 @@
 *.cnf
 *.out
+./solutions/
+./graphs/
